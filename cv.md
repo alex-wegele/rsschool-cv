@@ -57,4 +57,4 @@ English (А1)
 Try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.  
   
     
-rsschool
+![rsschool](https://app.rs.school/static/images/logo-rsschool3.png)
