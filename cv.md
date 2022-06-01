@@ -2,9 +2,9 @@
 
 ###Contact Info
 
-Address: Russia, Rostov-on-Don
-Phone: +7 961 410 11 27
-E-mail: wegele-al@mail.ru
+Address: Russia, Rostov-on-Don  
+Phone: +7 961 410 11 27  
+E-mail: wegele-al@mail.ru  
 GitHub: [alex-wegele](https://github.com/alex-wegele)
 
 
