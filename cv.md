@@ -52,10 +52,9 @@ The Rolling Scopes courses, language documentation (HTML, CSS, JS), and other pu
 
 ###Languages
 
-Russian 
-English (А1)
-Try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
-
-
-
+Russian  
+English (А1)  
+Try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.  
+  
+    
 rsschool
