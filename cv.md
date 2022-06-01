@@ -1,14 +1,14 @@
-Aleksandr Wegele
+#Aleksandr Wegele
 
-Contact Info
+###Contact Info
 
 Address: Russia, Rostov-on-Don
 Phone: +7 961 410 11 27
 E-mail: wegele-al@mail.ru
-GitHub: alex-wegele
+GitHub: [alex-wegele](https://github.com/alex-wegele)
 
 
-About me
+###About me
 
 I started learning programming on my own in March 2022. Previously, I was fond of frontend-direction at an amateur level (creation and administration of sites for communities within game projects).
 
@@ -16,7 +16,7 @@ Now I want to change the scope of my professional activity and continue my devel
 
 I have a need to be inside the professional community, hone the learned basic skills and develop further in a comprehensive way - so I would like to become part of your team.
 
-Skills
+###Skills
 
 - Basic technical knowledge: HTTP, HTTPS, browser principles, DNS.
 - HTML: semantic elements, forms and validation, accessibility, BEM methodology.
@@ -29,8 +29,9 @@ Windows OS, Linux(Ubuntu)
 
 Editors: Sublime, VSCode.
 
-Code examples
+###Code examples
 
+```
 const accordions = document.querySelectorAll('.accordion-item');
 
 for(item of accordions) {
@@ -38,8 +39,8 @@ for(item of accordions) {
     this.classList.toggle('active');
   })
 }
-
-Education
+```
+###Education
 
 Saratov State Technical University Gagarin, specialty "engineer of ground technological facilities", 2016.
 
@@ -49,8 +50,7 @@ I continue active self-study in the Frontend direction based on the materials of
 The Rolling Scopes courses, language documentation (HTML, CSS, JS), and other publicly available materials.
 
 
-
-Languages
+###Languages
 
 Russian 
 English (А1)
